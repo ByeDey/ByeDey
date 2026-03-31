@@ -1,35 +1,69 @@
-# 안녕하세요, 신준형입니다 👋
+<div align="center">
 
-**Java Backend Developer** | Spring · MyBatis · Oracle
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1a4f8a&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shin+Joon+Hyeong+%F0%9F%91%8B;Java+Backend+Developer;Spring+%C2%B7+MyBatis+%C2%B7+Oracle)](https://byedey.github.io/resume/)
 
----
+<br/>
 
-### 🙋 About Me
+**신입 Java 백엔드 개발자 · 읽기 좋은 코드와 팀 소통을 중요하게 생각합니다**
 
-- 협성대학교 컴퓨터공학과 졸업
-- KH정보교육원 공공데이터 융합 자바개발자 양성과정 수료
-- 읽기 좋은 코드와 팀 소통을 중요하게 생각하는 신입 개발자
+<br/>
+
+[![Resume](https://img.shields.io/badge/📄%20Resume-1a4f8a?style=for-the-badge)](https://byedey.github.io/resume/)
+[![Email](https://img.shields.io/badge/s77607045@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s77607045@gmail.com)
+
+</div>
 
 ---
 
 ### 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
+![JSP](https://img.shields.io/badge/JSP%2FServlet-007396?style=flat-square)
+
+**Database**
+
+![Oracle](https://img.shields.io/badge/Oracle_11g-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+
+**Learning**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
-### 📄 Resume
+### 📊 GitHub Stats
 
-👉 **[입사 지원서 보기](https://byedey.github.io/resume/)**
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ByeDey&show_icons=true&theme=default&hide_border=true&title_color=1a4f8a&icon_color=e8623a&text_color=444444&bg_color=f7f5f0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByeDey&layout=compact&hide_border=true&title_color=1a4f8a&text_color=444444&bg_color=f7f5f0" />
+
+</div>
 
 ---
 
-### 📬 Contact
+### 🗂 Projects
 
-- Email: s77607045@gmail.com
-- Phone: 010-7760-7045
+| 프로젝트 | 설명 | 기술 |
+|---|---|---|
+| **Group Ware ERP** | 전자결재 · 휴가관리 · 근태 관리 웹 애플리케이션 | Spring MVC · MyBatis · Oracle |
+| **유사 이미지 추천** | YOLO · ResNet 기반 여행지 이미지 추천 시스템 | Java · Spring · YOLO · ResNet |
+
