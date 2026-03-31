@@ -8,7 +8,7 @@
 
 <br/>
 
-[![입사지원서](https://img.shields.io/badge/Resume-1a4f8a?style=for-the-badge)](https://byedey.github.io/resume/)
+[![resume](https://img.shields.io/badge/입사지원서-1a4f8a?style=for-the-badge)](https://byedey.github.io/resume/)
 [![Email](https://img.shields.io/badge/s77607045@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s77607045@gmail.com)
 
 </div>
