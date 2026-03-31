@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1a4f8a&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shin+Joon+Hyeong+%F0%9F%91%8B;Java+Backend+Developer;Spring+%C2%B7+MyBatis+%C2%B7+Oracle)](https://byedey.github.io/resume/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1a4f8a&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shin+Joon+Hyeong;Java+Backend+Developer;Spring+%C2%B7+MyBatis+%C2%B7+Oracle)](https://byedey.github.io/resume/)
 
 <br/>
 
@@ -8,14 +8,14 @@
 
 <br/>
 
-[![Resume](https://img.shields.io/badge/📄%20Resume-1a4f8a?style=for-the-badge)](https://byedey.github.io/resume/)
+[![Resume](https://img.shields.io/badge/Resume-1a4f8a?style=for-the-badge)](https://byedey.github.io/resume/)
 [![Email](https://img.shields.io/badge/s77607045@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s77607045@gmail.com)
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Backend**
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -60,10 +60,9 @@
 
 ---
 
-### 🗂 Projects
+### Projects
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
 | **Group Ware ERP** | 전자결재 · 휴가관리 · 근태 관리 웹 애플리케이션 | Spring MVC · MyBatis · Oracle |
 | **유사 이미지 추천** | YOLO · ResNet 기반 여행지 이미지 추천 시스템 | Java · Spring · YOLO · ResNet |
-
