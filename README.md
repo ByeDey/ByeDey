@@ -49,16 +49,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ByeDey&show_icons=true&theme=default&hide_border=true&title_color=1a4f8a&icon_color=e8623a&text_color=444444&bg_color=f7f5f0" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByeDey&layout=compact&hide_border=true&title_color=1a4f8a&text_color=444444&bg_color=f7f5f0" />
-
-</div>
-
----
 
 ### Projects
 
