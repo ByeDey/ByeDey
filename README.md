@@ -58,5 +58,5 @@
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
 | **[Group Ware ERP](https://github.com/ByeDey/Spring-ERP-)** | 전자결재 · 휴가관리 · 근태 관리 웹 애플리케이션 | Spring MVC · MyBatis · Oracle |
-| **유사 이미지 추천** | YOLO · ResNet 기반 여행지 이미지 추천 시스템 | Java · Spring · YOLO · ResNet |
+| **유사 이미지 추천** | YOLO · ResNet 기반 여행지 이미지 추천 시스템 | Flask · YOLO · ResNet |
 | **[실시간 채팅 서버](https://github.com/ByeDey/Chat)** | WebSocket 기반 다중 채팅방 · 참여자 목록 · 방 관리 | Spring Boot · Redis · Kafka · WebSocket |
