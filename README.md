@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1a4f8a&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shin+Joon+Hyeong;Java+Backend+Developer;Spring+%C2%B7+MyBatis+%C2%B7+Oracle)](https://github.com/ByeDey/resume)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1a4f8a&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shin+Joon+Hyeong;Java+Backend+Developer;Spring+%C2%B7+MyBatis+%C2%B7+Oracle)](https://byedey.github.io/resume/)
 
 <br/>
 
